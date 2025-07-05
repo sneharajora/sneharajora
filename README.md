@@ -51,7 +51,7 @@
  Add fresh ideas slowly 💡
  Stir with passion 🥢
  Debug until golden 🐛➡️✨
- Serve with documentation 📝
+  
          <img src="noodlegif.gif" alt="Demo" width="150">
 </div>
 
