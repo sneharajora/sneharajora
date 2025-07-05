@@ -43,6 +43,7 @@
 #   🍜 About This Developer
 
 <div align="center">
+  <img src="noodlegif.gif" alt="Demo" width="150">
 
 ### 🍝 My Coding Recipe
 
@@ -50,9 +51,9 @@
  Heat up the IDE 🔥
  Add fresh ideas slowly 💡
  Stir with passion 🥢
- Debug until golden 🐛➡️✨
+ Debug until golden 🐛➡️✨ 
   
-         <img src="noodlegif.gif" alt="Demo" width="150">
+        
 </div>
 
 
