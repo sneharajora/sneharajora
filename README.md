@@ -47,13 +47,14 @@
 ### 🍝 My Coding Recipe
 
 **Instructions:**
-1. Heat up the IDE 🔥
-2. Add fresh ideas slowly 💡
-3. Stir with passion 🥢
-4. Debug until golden 🐛➡️✨
-5. Serve with documentation 📝
-
+ Heat up the IDE 🔥
+ Add fresh ideas slowly 💡
+ Stir with passion 🥢
+ Debug until golden 🐛➡️✨
+ Serve with documentation 📝
+         <img src="noodlegif.gif" alt="Demo" width="150">
 </div>
+
 
 ---
 
