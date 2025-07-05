@@ -45,15 +45,6 @@
 <div align="center">
   <img src="noodlegif.gif" alt="Demo" width="150">
 
-### 🍝 My Coding Recipe
-
-**Instructions:**
- Heat up the IDE 🔥
- Add fresh ideas slowly 💡
- Stir with passion 🥢
- Debug until golden 🐛➡️✨ 
-  
-        
 </div>
 
 
