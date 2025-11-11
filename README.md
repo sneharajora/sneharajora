@@ -169,6 +169,7 @@
 
 *Made with ❤️, lots of ☕, and endless 🍜*
 
-![Visitor Count](https://profile-counter.glitch.me/sneharajora/count.svg)
+![Visits](https://hits.sh/github.com/sneharajora.svg?style=for-the-badge&label=visits)
+
 
 </div>
